@@ -1,1 +1,3 @@
 # Udacity_data_analysis_project
+选了三个Udacity数据分析（入门）纳米学位课程的项目，还有有一些项目都比较简单就不再上传了。
+强烈建议安装Anaconda，其配套的Jupyter,Ipython,Spyder都非常好用，并且安装第三方库的时候非常的方便。
